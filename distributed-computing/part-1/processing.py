@@ -40,10 +40,11 @@ def get_avg_pop(city):
     return ave
 
     # or #
+
+
     #num_tracts = 0
     #total_pop = 0
     #for _, pop in df["pop"].iteritems():
     #    total_pop += pop;
     #    num_tracts += 1
     #return total_pop / num_tracts
-
